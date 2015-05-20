@@ -1,0 +1,3 @@
+[submodule "scripts/phaser"]
+	path = scripts/phaser
+	url = https://github.com/photonstorm/phaser
