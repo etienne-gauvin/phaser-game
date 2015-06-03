@@ -1,0 +1,15 @@
+{
+  "name": "Phaser-Game",
+  "version": "0.1.0",
+  "description": "",
+
+  "license": "MIT",
+
+  "dependencies": {
+    "phaser": "latest"
+  },
+
+  "ignore": [
+    "js/libs"
+  ]
+}
