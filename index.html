@@ -4,6 +4,10 @@
 		<meta charset="UTF-8" />
 		<title>Phaser Basic Project Template</title>
 
+		<script>
+		  window.$ = Object.create(null);
+		  $.states = Object.create(null);
+		</script>
 		<script src="js/libs/phaser/build/phaser.min.js"></script>
 		<script src="js/states/Boot.js"></script>
 		<script src="js/states/Preloader.js"></script>
@@ -11,7 +15,7 @@
 		<script src="js/states/Game.js"></script>
 	</head>
 	<body>
-		<div id="gameContainer"></div>
+		<div id="game_container"></div>
 		<script src="js/main.js"></script>
 	</body>
 </html>
