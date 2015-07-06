@@ -1,0 +1,21 @@
+{
+  "name": "game",
+  "version": "0.0.0",
+  "homepage": "https://github.com/etienne-gauvin/phaser-game",
+  "authors": [
+    "Etienne G <etienne@gauvin.info>"
+  ],
+  "main": "public/javascripts/main.js",
+  "moduleType": [
+    "es6"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "js/libs",
+    "test",
+    "tests"
+  ]
+}
